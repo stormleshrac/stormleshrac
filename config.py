@@ -8,7 +8,7 @@ USUARIO = 'daimecs'
 PASSWORD = 'Piero2020*'
 USUARIO_ID = 15941
 ZIP_MB = 399
-MOODLE_URL = 'https://moodle.uclv.edu.cu/'
+MOODLE_URL = 'moodle.uclv.edu.cu'
 OWNER = [1291931851]
 
 # CUENTA DE MEGA
