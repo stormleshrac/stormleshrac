@@ -6,7 +6,7 @@ OWNER = [1291931851]
 # DATOS DEL MOODLE
 USUARIO = 'daimecs'
 MOODLE_PASSWORD = 'Piero2020*'
-USUARIO_ID =  15941 #Tu id de la nube
+USUARIO_ID =  20601 #Tu id de la nube
 ZIP_MB = 250
 MOODLE_URL = 'moodle.uclv.edu.cu'
 
