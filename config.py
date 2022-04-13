@@ -7,8 +7,8 @@ API_HASH = '0dac59387c482f674410f79636a09f1f'
 USUARIO = 'daimecs'
 PASSWORD = 'Piero2020*'
 USUARIO_ID = 15941
-ZIP_MB = 100
-MOODLE_URL = 'moodle.uclv.edu.cu'
+ZIP_MB = 399
+MOODLE_URL = 'https://moodle.uclv.edu.cu/'
 OWNER = [1291931851]
 
 # CUENTA DE MEGA
