@@ -7,7 +7,7 @@ OWNER = [1291931851]
 USUARIO = 'daimecs'
 MOODLE_PASSWORD = 'Piero2020*'
 USUARIO_ID =  20601 #Tu id de la nube
-ZIP_MB = 300
+ZIP_MB = 350
 MOODLE_URL = 'moodle.uclv.edu.cu'
 
 # CUENTA DE MEGA - este bot sirve par mega tambien
