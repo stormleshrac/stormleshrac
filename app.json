@@ -14,23 +14,23 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "7739789"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "0dac59387c482f674410f79636a09f1f"
     },
     "TG_BOT_TOKEN": {
       "description": "get this value from @BotFather",
-      "value": ""
+      "value": "5217854377:AAHoNJgwCpBpnZwsLFb0yJGACiAqDltTKSg"
     },
     "AUTH_CHANNEL": {
       "description": "should be an integer. The ID of the Telegram Group, where the Leecher should work. Take this from @MissRose_bot. Put Group ID",
-      "value": ""
+      "required": false
     },
     "OWNER_ID": {
       "description": "should be an integer. ID of owner of bot",
-      "value": ""
+      "value": "1291931851"
     },
     "UPLOAD_AS_DOC": {
       "description": "True/False. If true all files will be uploaded as documents. Default is False.",
