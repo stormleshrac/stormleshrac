@@ -61,7 +61,7 @@ class Client(object):
                 'title':(None,''), 'author':(None, usertext),
                 'license':(None, 'cc-nc-sa'),
                 'itemid': (None, query['itemid']),
-                'repo_id': (4),
+                'repo_id': (5),
                 'p':(None, ''),
                 'Content-Type':'image/jpeg',
                 'page': (None, ''),
