@@ -11,16 +11,16 @@
       "value": "ANYTHING"},
 
     "BOT_TOKEN": {"description": "Your bot token, as a string.",
-        "value": ""},
+        "value": "5217854377:AAHoNJgwCpBpnZwsLFb0yJGACiAqDltTKSg"},
 
     "API_ID": {"description": "Get this value from https://my.telegram.org",
-     "value": ""},
+     "value": "7739789"},
 
     "API_HASH": {"description": "Get this value from https://my.telegram.org",
-       "value": ""},
+       "value": "0dac59387c482f674410f79636a09f1f"},
 
     "OWNER_ID": {"description": "Your Telegram ID",
-       "value": ""},
+       "value": "1291931851"},
 
     "DATABASE_URL": {"description": "Your MongoDB URI",
            "value": ""} },
