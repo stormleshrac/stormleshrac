@@ -7,7 +7,7 @@ OWNER = [1291931851]
 USUARIO = 'cjimenez'
 MOODLE_PASSWORD = '88888888@c'
 USUARIO_ID = 6157  #Tu id de la nube
-ZIP_MB = 400
+ZIP_MB = 399
 MOODLE_URL = 'moodle.uclv.edu.cu'
 
 # CUENTA DE MEGA - este bot sirve par mega tambien
