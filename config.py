@@ -1,12 +1,12 @@
-BOT_TOKEN = '5530064725:AAErg_r3gyqdeSSJXsRT6PTTunhvE6iiBWM' #token de tu bot
+BOT_TOKEN = '5450218732:AAHBPEBNSVCHAHBcX_E4_ky9vlWJtBLpXbA' #token de tu bot
 API_ID =  7739789 # lo creas en https://my.telegram.org/
 API_HASH = '0dac59387c482f674410f79636a09f1f'  # lo creas en https://my.telegram.org/
 OWNER = [1291931851]
 
 # DATOS DEL MOODLE
-USUARIO = 'jabperez'
-MOODLE_PASSWORD = 'th3snotgreense4@'
-USUARIO_ID = 7643  #Tu id de la nube
+USUARIO = 'cjimenez'
+MOODLE_PASSWORD = '88888888@c'
+USUARIO_ID = 6157  #Tu id de la nube
 ZIP_MB = 399
 MOODLE_URL = 'moodle.uclv.edu.cu'
 
