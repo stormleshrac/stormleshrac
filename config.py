@@ -6,7 +6,7 @@ OWNER = [1291931851]
 # DATOS DEL MOODLE
 USUARIO = 'alvaro.garcia'
 MOODLE_PASSWORD = 'covid*.403G959j282'
-USUARIO_ID =   #Tu id de la nube
+USUARIO_ID = 968342  #Tu id de la nube
 ZIP_MB = 900
 MOODLE_URL = 'nube.reduc.edu.cu'
 
