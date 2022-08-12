@@ -4,8 +4,8 @@ API_HASH = '0dac59387c482f674410f79636a09f1f'  # lo creas en https://my.telegram
 OWNER = [1291931851]
 
 # DATOS DEL MOODLE
-USUARIO = 'alvaro.garcia'
-MOODLE_PASSWORD = 'covid*.403G959j282'
+USUARIO = ''
+MOODLE_PASSWORD = ''
 USUARIO_ID = 968342  #Tu id de la nube
 ZIP_MB = 900
 MOODLE_URL = 'nube.reduc.edu.cu'
