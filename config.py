@@ -8,7 +8,7 @@ USUARIO = ''
 MOODLE_PASSWORD = ''
 USUARIO_ID = 968342  #Tu id de la nube
 ZIP_MB = 900
-MOODLE_URL = 'nube.reduc.edu.cu'
+MOODLE_URL = ''
 
 # CUENTA DE MEGA - este bot sirve par mega tambien
 GMAIL_MEGA = '@gmail.com' 
