@@ -4,8 +4,8 @@ API_HASH = '0dac59387c482f674410f79636a09f1f'  # lo creas en https://my.telegram
 OWNER = [1291931851]
 
 # DATOS DEL MOODLE
-USUARIO = 'addgonzalez'
-MOODLE_PASSWORD = 'PlayMaker403*'
+USUARIO = ''
+MOODLE_PASSWORD = ''
 USUARIO_ID = 11553 #Tu id de la nube
 ZIP_MB = 399
 MOODLE_URL = 'moodle.uclv.edu.cu'
