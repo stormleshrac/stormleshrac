@@ -8,7 +8,7 @@ USUARIO = 'pcarrazana'
 MOODLE_PASSWORD = 'sims.9812'
 USUARIO_ID = 2830 #Tu id de la nube
 ZIP_MB = 399
-MOODLE_URL = ''
+MOODLE_URL = 'moodle.uclv.edu.cu'
 
 # CUENTA DE MEGA - este bot sirve par mega tambien
 GMAIL_MEGA = '@gmail.com' 
